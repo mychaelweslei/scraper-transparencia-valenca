@@ -1,0 +1,162 @@
+Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+
+C extensions
+
+*.so
+
+Distribution / packaging
+
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+Installer logs
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+Unit test / coverage reports
+
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+Translations
+
+*.mo
+*.pot
+
+Django stuff:
+
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+Flask stuff:
+
+instance/
+.webassets-cache
+
+Scrapy stuff:
+
+.scrapy
+
+Sphinx documentation
+
+docs/_docs/
+docs/_build/
+
+PyBuilder
+
+.pybuilder/
+target/
+
+Jupyter Notebook
+
+.ipynb_checkpoints
+
+IPython
+
+profile_default/
+ipython_config.json
+
+pyenv
+
+For a library or package, you might want to ignore these files since they are usually
+
+set by dependencies
+
+.python-version
+
+pipenv
+
+According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+
+However, in cases of ecosystem thrash, you may have to ignore this.
+
+Pipfile.lock
+
+Poetry
+
+Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
+
+This is a personal preference depending on whether you want to track down your dependencies
+
+poetry.lock
+
+pdm
+
+Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control
+
+pdm.lock
+
+.pdm.toml
+
+PEP 582; used by e.g. PDM, Hatch
+
+pypackages/
+
+Celery stuff
+
+celerybeat-schedule
+celerybeat.pid
+
+SageMath parsed files
+
+*.sage.py
+
+Environments
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+IDEs and Editors
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+Pastas locais de dados e downloads gerados pelo robô de licitações
+
+LICITAÇÕES/
+LICITAÇÕES -PMV/
+Pregões Eletrônicos/
+downloads_pdf/
+*.pdf
